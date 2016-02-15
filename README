@@ -1,0 +1,10 @@
+SHELL
+
+Functionalities:
+1. Execute all the commands (ls, clear, vi etc) 
+2. Shell built­ins (cd, pwd, export) 
+3. Print environment variables and text using echo 
+4. I/O redirection (<, >)
+5. Pipes “|” (multiple) 
+6. Support for history and '!' operator 
+7. Handle   Interrupt   Signal:   On   pressing   "Ctrl+C",   the   command   that   is   running   currently terminates. 
